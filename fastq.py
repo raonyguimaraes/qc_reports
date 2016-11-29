@@ -100,4 +100,4 @@ class Writer:
         self.__file.write(strand+"\n")
         self.__file.write(quality+"\n")
         
-return True
+        return True
